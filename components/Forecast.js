@@ -10,4 +10,4 @@ export default function Forcast(props){
             <Text>°C</Text>
         </View>
     )
-}
+} 
