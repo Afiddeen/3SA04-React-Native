@@ -21,6 +21,7 @@ export default function Weather(props){
 
 const style = StyleSheet.create({
     backdrop: {
+        flexDirection: 'column',
         alignItems: 'center',
         justifyContent: 'center',
         width: '100%',
