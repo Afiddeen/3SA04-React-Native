@@ -59,15 +59,13 @@ const Styles = StyleSheet.create({
     },
     home: {
         textAlign: 'center',
-        padding: 9,
         fontSize: 30,
         color: '#FFFAFA',
         backgroundColor: `#363636`,
     },
     font3: {
         textAlign: 'left',
-        padding: 9,
-        fontSize: 20,
+        fontSize: 25,
         color: '#FFFAFA',
         backgroundColor: `#4F4F4F`,
     },
